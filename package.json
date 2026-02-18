@@ -1,0 +1,1 @@
+{\n  "name": "gerentebot",\n  "version": "1.0.0",\n  "dependencies": {\n    "node-telegram-bot-api": "^0.51.0",\n    "dotenv": "^16.0.0"\n  }\n}
